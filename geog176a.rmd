@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+In the summer of 2020 I took a class GIS course based in R. I wrote some code, and did some cool data science. Here is a collection of links! 
+
+## [Building a project website]()
+
+- For this project, we were tasked with creating our first website 
+- To do this we had to sync Github with R and have them be able to communicate with each other
+- The purpose of this project is to begin a portfolio of my GIS work that I can later show to potential employers

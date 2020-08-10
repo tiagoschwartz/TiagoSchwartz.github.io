@@ -1,0 +1,13 @@
+---
+title: ""
+---
+  
+<center>
+# Hi, I'm Tiago Schwartz
+</center>
+    
+
+I am from San Francisco and attend UCSB. I am going into my third year and currently pursuing a degree in Geography with an emphasis in GIS and a degree in Linguistics. I used to live in Portugal which has had a positive impact on my life. In my free time I play and watch a lot of soccer.
+
+
+![](~/documents/github/TiagoSchwartz.github.io/img/IMG_4397.PNG)  

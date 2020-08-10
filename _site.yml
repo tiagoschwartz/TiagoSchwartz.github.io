@@ -1,0 +1,20 @@
+name: "first-website"
+output_dir: "."
+navbar:
+  title: "My First Website"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Projects"
+      href: geog176A.html
+  right:
+    - icon: fa-github
+      href: https://github.com/tiagoschwartz
+output:
+  html_document:
+    theme: flatly
+   
+    
+    
+  
